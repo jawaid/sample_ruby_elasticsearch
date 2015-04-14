@@ -1,5 +1,5 @@
 # sample_ruby_elasticsearch
-A sample project that shows you how to test a ruby webapp that uses Elasticsearch.
+A sample project that shows you how to test a ruby webapp that uses Elasticsearch. 
 
 ## What does it include
 
